@@ -35,4 +35,3 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Shimazuuu/Shimazuuu/output/snake.svg" alt="Snake animation" />
 </div>
-###
