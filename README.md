@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/595942208197361687/1348771106533802128/cropped-logo.webp?ex=67d0ac7a&is=67cf5afa&hm=a831091249eccf49f02309261f33d30f7df0dd8f727888fe92d2669079137f3e&"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
